@@ -1,8 +1,8 @@
 # Curso de Graficas con Python
 
 ### Canal de Youtube
-https://www.youtube.com/c/Moyetepython
-https://www.youtube.com/channel/UCTpcZMHrqzBSrPa9bEbANDw
+* https://www.youtube.com/c/Moyetepython
+* https://www.youtube.com/channel/UCTpcZMHrqzBSrPa9bEbANDw
 
 ### Lista de reproduccion Graficas
 https://youtube.com/playlist?list=PLzKF7sAvC2S9S9D_Jf76Y1QLkk1eQl0tX
